@@ -15,7 +15,7 @@ A simple and responsive HTML and CSS template for a hotel or restaurant website.
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com//hotel-restaurant-template.git
+    [git clone https://github.com//hotel-restaurant-template.git](https://github.com/vineet1401/VISTRO-Restaurant.git)
     ```
 
 2. **Customize the Content:**
